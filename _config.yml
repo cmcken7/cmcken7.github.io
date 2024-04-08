@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:cmcken7@uwo.ca"}
   - {title: Github, icon: github, url: "https://github.com/cmcken7"}
 #  - {title: Twitter, icon: twitter, url: "https://twitter.com/ddeannew"}
-#  - {title: LinkedIn, icon: linkedin}
+  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/chelsea-mckenzie"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
