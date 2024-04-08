@@ -27,7 +27,7 @@ external:                  # shows a footer with social links - for available ic
 #  - {title: Twitter, icon: twitter, url: "https://twitter.com/ddeannew"}
   - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/chelsea-mckenzie-2bbb53302/"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0009-0000-2192-8471"}
-  - {title: GoogleScholar, icon: google-scholar, url: "https://g.co/kgs/BrXMByv"}
+  - {title: GoogleScholar, icon: ai-google-scholar, url: "https://g.co/kgs/BrXMByv"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
