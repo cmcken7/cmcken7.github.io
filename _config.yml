@@ -18,6 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About Me", file: "index.html"}
   - {title: "Contact Me", file: "contactme.html"}
+  #- {title: "Papers", file: ""} # creates new tab location for publications (upload these as .png)
   #- {file: "index.html"}
   #- {file: "README.md"}
 
